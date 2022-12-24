@@ -7,3 +7,7 @@ The plugin is not an anti bot!
 
 If the player has xuid means that he is not in the proxy, this plugin transfers him to the server you set in config
 
+## CloudBurst page
+https://cloudburstmc.org/resources/xboxplayertransfer.874/ 
+
+
