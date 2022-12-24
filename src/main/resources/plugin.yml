@@ -1,0 +1,6 @@
+main: me.indian.xboxplayers.XboxPlayersTransfer
+name: XboxPlayerTransfer
+author: IndianPL
+description: XboxPlayerTransfer plugin
+version: '${project.version}'
+api: [ "1.0.14" ]

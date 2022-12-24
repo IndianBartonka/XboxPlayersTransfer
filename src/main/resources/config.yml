@@ -1,0 +1,5 @@
+#Ip and port of proxy server
+transfer:
+  ip: "127.0.0.1"
+  port: 19133
+
