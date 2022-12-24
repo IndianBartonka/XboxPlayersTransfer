@@ -1,4 +1,4 @@
-#XboxPlayersTransfer
+# XboxPlayersTransfer
 
 This plugin is only for transferring players with an xbox account to another server, if a player enters a server without an xbox account nothing will happen.
 
